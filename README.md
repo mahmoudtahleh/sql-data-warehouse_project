@@ -1,6 +1,3 @@
-# sql-data-warehouse_project
-Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
-
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
@@ -75,7 +72,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ---
 
-🌟 About Me
+##🌟 About Me
 
 Hi there! I'm Mahmoud AlTahlah.
 I’m a Data Engineer & Data Analyst with a strong passion for building and transforming data into real value.
